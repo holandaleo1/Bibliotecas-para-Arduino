@@ -1,0 +1,2 @@
+GdesteTemperatura	KEYWORD1
+TempC			KEYWORD2
